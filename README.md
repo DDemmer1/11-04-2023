@@ -3,6 +3,8 @@ SS 23 - Wiederholung - Klassen, Objekte, Datentypen
 
 ### 📝 Aufgabe:
 
+Wir stellen uns vor, dass wir in einem Team an einem Backend eines Webshops arbeiten und gerade eine Struktur zum verwalten der Waren aufbauen. Der Verkaufspreis dieser Waren darf auf keinen Fall von anderen Entwicklern unter 0 gesetzt werden.
+
 Erstellt eine Klasse ```Item``` mit folgenden Attributen:
  - ```double price```, ```String name```
  
